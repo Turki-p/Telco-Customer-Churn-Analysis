@@ -66,4 +66,4 @@ The data was structured into a star schema with the following tables:
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/turki-f-alharbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](turki-f-alharbi)
